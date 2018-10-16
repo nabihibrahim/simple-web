@@ -1,0 +1,35 @@
+.body{
+    background-image: url(../images/buss1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.container{
+    padding-top: 3%;
+}
+.articl{
+    margin: 10px;
+    cursor: pointer;
+}
+.articl i{
+    color: gold
+}
+.carousel-item img{
+    width: 100%;
+}
+.carousel-item h5,
+.carousel-item p{
+    color: goldenrod
+}
+.modal-content{
+    height: 400px;
+}
+
+iframe{
+    height: 300px !important
+}
+
+footer p{
+    color: #fff;
+    padding: 10px;
+}
